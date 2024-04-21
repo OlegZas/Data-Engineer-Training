@@ -35,3 +35,10 @@ Here are examples of some queries used for analysis:
 ## MYSQL
 
 DDL to create the schema.
+<img width="838" alt="Schema" src="https://github.com/OlegZas/Business-Analyst-Training/assets/115661636/66fe6e1d-b458-4a77-8fbf-b1111f82c574">
+--
+<img width="941" alt="MYSQL_DDL" src="https://github.com/OlegZas/Business-Analyst-Training/assets/115661636/5ebd2811-8ee8-4e16-a62a-0bdb686b30fb">
+<img width="932" alt="MYSQL_DDL2" src="https://github.com/OlegZas/Business-Analyst-Training/assets/115661636/3a94151b-7b69-4d1a-b7ed-3df3f62f6807">
+<img width="929" alt="MYSQL_DDL3" src="https://github.com/OlegZas/Business-Analyst-Training/assets/115661636/b77492b9-4038-4b15-9571-35e20031e8b2">
+--
+<img width="1004" alt="StarSchema" src="https://github.com/OlegZas/Business-Analyst-Training/assets/115661636/e87da3d0-fda7-4581-9d58-aa30883f8f85">
