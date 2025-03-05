@@ -1,4 +1,4 @@
-# Revature Corporate Training Projects
+# Corporate Training Projects
 
 This repository contains some of the projects completed during Revature's corporate training program. </br>
 They include dashboards, BigQuery (SQL-based) queries, and MYSQL queries. 
